@@ -1,0 +1,32 @@
+[INFO] 21:47:34:547 [KERNEL]/(12849:12849): Servidor escuchando en el puerto 4444 !
+[INFO] 21:48:23:736 [KERNEL]/(12948:12948): Servidor escuchando en el puerto 5555 !
+[INFO] 21:49:04:336 [KERNEL]/(13021:13021): Servidor escuchando en el puerto 5555 !
+[INFO] 21:49:07:175 [KERNEL]/(13021:13021): Se conecto un cliente!
+[INFO] 21:49:07:175 [KERNEL]/(13021:13021): FD del IO conectado 5
+[INFO] 21:49:07:175 [KERNEL]/(13021:13021): Esperando handshake de IO..
+[INFO] 21:49:07:175 [KERNEL]/(13021:13021): Handshake de IO (ID 4) recibido!
+[INFO] 21:49:07:175 [KERNEL]/(13021:13021): Handshake exitoso! Espero mensaje de IO
+[INFO] 21:49:07:175 [KERNEL]/(13021:13021): Me llego esto: Hola kernel doy el modulo IO
+[INFO] 21:49:07:175 [KERNEL]/(13021:13021): Respondiendo a IO...
+[INFO] 21:49:20:321 [KERNEL]/(13090:13090): Servidor escuchando en el puerto 4444 !
+[INFO] 22:09:47:121 [KERNEL-S]/(13961:13961): Servidor escuchando en el puerto 4444 !
+[ERROR] 22:10:02:847 [KERNEL-C]/(14047:14047): Fallo getaddrinfo al conectar con 127.0.0.1:6666 - Connection refused
+[INFO] 22:10:02:848 [KERNEL-C]/(14047:14047): FD de conexion con MEMORIA -1
+[INFO] 22:10:02:848 [KERNEL-C]/(14047:14047): Enviando handhsake a IO...
+[ERROR] 22:10:02:848 [KERNEL-C]/(14047:14047): Error al enviar handshake IO (ID 4) : Bad file descriptor
+[ERROR] 22:10:02:848 [KERNEL-C]/(14047:14047): Fallo al enviar handshake a MEMORIA. Cierro conexion.
+[INFO] 22:10:50:959 [KERNEL-C]/(14071:14071): Conectado con exito a 127.0.0.1 puerto 6666
+[INFO] 22:10:50:959 [KERNEL-C]/(14071:14071): FD de conexion con MEMORIA 4
+[INFO] 22:10:50:959 [KERNEL-C]/(14071:14071): Enviando handhsake a IO...
+[INFO] 22:10:50:959 [KERNEL-C]/(14071:14071): Handshake de IO (ID 4) enviado!
+[INFO] 22:10:50:959 [KERNEL-C]/(14071:14071): Handshake exitoso! Envio mensaje kernel '
+[INFO] 22:10:50:959 [KERNEL-C]/(14071:14071): Esperando respuesta de la MEMORIA...
+[ERROR] 22:10:50:960 [KERNEL-C]/(14071:14071): Error al recibir tamanio del mensaje: Connection reset by peer
+[INFO] 22:10:50:960 [KERNEL-C]/(14071:14071): Me llego esto:  (null)
+[INFO] 22:17:59:509 [KERNEL-C]/(4033:4033): Conectado con exito a 127.0.0.1 puerto 6666
+[INFO] 22:17:59:513 [KERNEL-C]/(4033:4033): FD de conexion con MEMORIA 4
+[INFO] 22:17:59:513 [KERNEL-C]/(4033:4033): Enviando handhsake a MEMORIA...
+[INFO] 22:17:59:513 [KERNEL-C]/(4033:4033): Handshake de KERNEL (ID 2) enviado!
+[INFO] 22:17:59:513 [KERNEL-C]/(4033:4033): Handshake exitoso! Envio mensaje kernel '
+[INFO] 22:17:59:513 [KERNEL-C]/(4033:4033): Esperando respuesta de la MEMORIA...
+[INFO] 22:17:59:514 [KERNEL-C]/(4033:4033): Me llego esto:  Hola KERNEL tanto tiempo

@@ -1,0 +1,15 @@
+[INFO] 22:10:48:129 [MEMORIA]/(14060:14060): Servidor escuchando en el puerto 6666 !
+[INFO] 22:10:50:959 [MEMORIA]/(14060:14060): Se conecto un cliente!
+[INFO] 22:10:50:959 [MEMORIA]/(14060:14060): FD del KERNEL 5
+[INFO] 22:10:50:959 [MEMORIA]/(14060:14060): Esperando handshake de KERNEL..
+[INFO] 22:10:50:959 [MEMORIA]/(14060:14060): Handshake de IO (ID 4) recibido!
+[ERROR] 22:10:50:959 [MEMORIA]/(14060:14060): Se esperaba conexion de KERNAL. Cierro conexion.
+[INFO] 22:17:51:664 [MEMORIA]/(4032:4032): Servidor escuchando en el puerto 6666 !
+[INFO] 22:17:59:509 [MEMORIA]/(4032:4032): Se conecto un cliente!
+[INFO] 22:17:59:509 [MEMORIA]/(4032:4032): FD del KERNEL 5
+[INFO] 22:17:59:509 [MEMORIA]/(4032:4032): Esperando handshake de KERNEL..
+[INFO] 22:17:59:514 [MEMORIA]/(4032:4032): Handshake de KERNEL (ID 2) recibido!
+[INFO] 22:17:59:514 [MEMORIA]/(4032:4032): Handshake exitoso! Espero mensaje de KERNEL
+[INFO] 22:17:59:514 [MEMORIA]/(4032:4032): Me llego esto: Hola memoria soy el modulo KERNEL
+[INFO] 22:17:59:514 [MEMORIA]/(4032:4032): Respondiendo a KERNEL...
+[INFO] 22:29:01:006 [MEMORIA]/(4134:4134): Servidor escuchando en el puerto 6666 !

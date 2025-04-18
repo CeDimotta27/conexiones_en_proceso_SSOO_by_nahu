@@ -1,0 +1,44 @@
+[TRACE] 01:01:07:039 [KERNEL]/(18048:18048): Arrancando...
+[TRACE] 01:01:15:187 [KERNEL]/(18048:18048): Me llego esto Hola kernel como andas xd
+[INFO] 19:21:48:792 [KERNEL]/(25673:25673): Servidor escuchando en el puerto 4444 !
+[INFO] 19:22:17:533 [KERNEL]/(25673:25673): Se conecto un cliente!
+[ERROR] 19:22:17:533 [KERNEL]/(25673:25673): Error al recibir tamanio del mensaje: Socket operation on non-socket
+[ERROR] 19:22:17:533 [KERNEL]/(25673:25673): Error al enviar tamanio del mensaje: Socket operation on non-socket
+[INFO] 19:37:56:097 [KERNEL]/(26704:26704): Servidor escuchando en el puerto 4444 !
+[INFO] 19:38:03:330 [KERNEL]/(26704:26704): Se conecto un cliente!
+[INFO] 19:38:23:271 [KERNEL]/(26767:26767): Servidor escuchando en el puerto 4444 !
+[INFO] 19:38:29:113 [KERNEL]/(26767:26767): Se conecto un cliente!
+[INFO] 19:48:01:166 [KERNEL]/(27191:27191): Servidor escuchando en el puerto 4444 !
+[INFO] 19:48:13:421 [KERNEL]/(27191:27191): Se conecto un cliente!
+[INFO] 19:49:04:428 [KERNEL]/(27477:27477): Servidor escuchando en el puerto 4444 !
+[INFO] 19:49:06:385 [KERNEL]/(27477:27477): Se conecto un cliente!
+[INFO] 19:53:29:787 [KERNEL]/(27626:27626): Servidor escuchando en el puerto 4444 !
+[INFO] 19:53:36:736 [KERNEL]/(27626:27626): Se conecto un cliente!
+[INFO] 19:53:36:736 [KERNEL]/(27626:27626): FD del cliente conectado 5
+[INFO] 19:53:36:737 [KERNEL]/(27626:27626): Esperando mensaje de CPU..
+[INFO] 19:53:36:737 [KERNEL]/(27626:27626): Me llego esto Hola kernel como andas :3
+[INFO] 19:53:36:737 [KERNEL]/(27626:27626): Respondiendo a CPU..
+[INFO] 21:38:36:165 [KERNEL]/(29241:29241): Servidor escuchando en el puerto 4444 !
+[INFO] 21:38:47:541 [KERNEL]/(29241:29241): Se conecto un cliente!
+[INFO] 21:38:47:541 [KERNEL]/(29241:29241): FD del cliente conectado 5
+[INFO] 21:38:47:541 [KERNEL]/(29241:29241): Esperando handshake de CPU..
+[INFO] 21:38:47:541 [KERNEL]/(29241:29241): Handshake de CPU (ID 1) recibido!
+[INFO] 21:38:47:541 [KERNEL]/(29241:29241): Handshake exitoso! Espero mensaje de CPU
+[INFO] 21:38:47:541 [KERNEL]/(29241:29241): Me llego esto: Hola kernel como andas :3
+[INFO] 21:38:47:541 [KERNEL]/(29241:29241): Respondiendo a CPU...
+[INFO] 21:41:33:282 [KERNEL]/(29431:29431): Servidor escuchando en el puerto 4444 !
+[INFO] 21:41:35:965 [KERNEL]/(29431:29431): Se conecto un cliente!
+[INFO] 21:41:35:966 [KERNEL]/(29431:29431): FD del cliente conectado 5
+[INFO] 21:41:35:966 [KERNEL]/(29431:29431): Esperando handshake de CPU..
+[INFO] 21:41:35:967 [KERNEL]/(29431:29431): Handshake de CPU (ID 1) recibido!
+[INFO] 21:41:35:967 [KERNEL]/(29431:29431): Handshake exitoso! Espero mensaje de CPU
+[INFO] 21:41:35:967 [KERNEL]/(29431:29431): Me llego esto: Hola kernel como andas :3
+[INFO] 21:41:35:967 [KERNEL]/(29431:29431): Respondiendo a CPU...
+[INFO] 21:11:52:566 [KERNEL]/(11389:11389): Servidor escuchando en el puerto 4444 !
+[INFO] 21:12:41:937 [KERNEL]/(11389:11389): Se conecto un cliente!
+[INFO] 21:12:41:937 [KERNEL]/(11389:11389): FD del cliente conectado 5
+[INFO] 21:12:41:937 [KERNEL]/(11389:11389): Esperando handshake de CPU..
+[INFO] 21:12:41:939 [KERNEL]/(11389:11389): Handshake de CPU (ID 1) recibido!
+[INFO] 21:12:41:939 [KERNEL]/(11389:11389): Handshake exitoso! Espero mensaje de CPU
+[INFO] 21:12:41:939 [KERNEL]/(11389:11389): Me llego esto: Hola kernel como andas :3
+[INFO] 21:12:41:939 [KERNEL]/(11389:11389): Respondiendo a CPU...

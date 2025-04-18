@@ -1,0 +1,6 @@
+[INFO] 22:15:52:575 [MEMORIA]/(3546:3546): Servidor escuchando en el puerto 6666 !
+[INFO] 22:16:04:775 [MEMORIA]/(3546:3546): Se conecto un cliente!
+[INFO] 22:16:04:775 [MEMORIA]/(3546:3546): FD del KERNEL 5
+[INFO] 22:16:04:775 [MEMORIA]/(3546:3546): Esperando handshake de KERNEL..
+[INFO] 22:16:04:775 [MEMORIA]/(3546:3546): Handshake de KERNEL (ID 2) recibido!
+[ERROR] 22:16:04:775 [MEMORIA]/(3546:3546): Se esperaba conexion de KERNAL. Cierro conexion.

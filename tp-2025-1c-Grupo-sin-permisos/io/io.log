@@ -1,0 +1,17 @@
+[ERROR] 21:48:50:048 [IO]/(13019:13019): Fallo getaddrinfo al conectar con 127.0.0.1:5555 - Connection refused
+[INFO] 21:48:50:048 [IO]/(13019:13019): FD de conexion con IO -1
+[INFO] 21:48:50:048 [IO]/(13019:13019): Enviando handhsake a IO...
+[ERROR] 21:48:50:048 [IO]/(13019:13019): Error al enviar handshake IO (ID 4) : Bad file descriptor
+[ERROR] 21:48:50:048 [IO]/(13019:13019): Fallo al enviar handshake a KERNEL. Cierro conexion.
+[INFO] 21:49:07:174 [IO]/(13022:13022): Conectado con exito a 127.0.0.1 puerto 5555
+[INFO] 21:49:07:175 [IO]/(13022:13022): FD de conexion con IO 4
+[INFO] 21:49:07:175 [IO]/(13022:13022): Enviando handhsake a IO...
+[INFO] 21:49:07:175 [IO]/(13022:13022): Handshake de IO (ID 4) enviado!
+[INFO] 21:49:07:175 [IO]/(13022:13022): Handshake exitoso! Envio mensaje kernel '
+[INFO] 21:49:07:175 [IO]/(13022:13022): Esperando respuesta del KERNEL...
+[INFO] 21:49:07:175 [IO]/(13022:13022): Me llego esto:  Hola IO!
+[ERROR] 21:49:23:160 [IO]/(13091:13091): Fallo getaddrinfo al conectar con 127.0.0.1:5555 - Connection refused
+[INFO] 21:49:23:160 [IO]/(13091:13091): FD de conexion con IO -1
+[INFO] 21:49:23:160 [IO]/(13091:13091): Enviando handhsake a IO...
+[ERROR] 21:49:23:160 [IO]/(13091:13091): Error al enviar handshake IO (ID 4) : Bad file descriptor
+[ERROR] 21:49:23:160 [IO]/(13091:13091): Fallo al enviar handshake a KERNEL. Cierro conexion.

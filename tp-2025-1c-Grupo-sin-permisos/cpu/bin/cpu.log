@@ -1,0 +1,33 @@
+[TRACE] 01:01:15:186 CPU/(18050:18050): Conectando con el kernel 
+[TRACE] 01:01:15:187 CPU/(18050:18050): Me llego esto HOLA CPU  COMO ANDAS SOY EL KERNEL TANTO TIEMPO
+[INFO] 19:22:17:533 CPU/(25742:25742): Conectado con exito a 127.0.0.14444
+[ERROR] 19:22:17:533 CPU/(25742:25742): Error al recibir tamanio del mensaje: Connection reset by peer
+[INFO] 19:38:03:329 CPU/(26706:26706): Conectado con exito a 127.0.0.14444
+[INFO] 19:38:29:112 CPU/(26768:26768): Conectado con exito a 127.0.0.14444
+[INFO] 19:48:13:421 [CPU]/(27250:27250): Conectado con exito a 127.0.0.14444
+[INFO] 19:49:06:385 [CPU]/(27478:27478): Conectado con exito a 127.0.0.1 puerto 4444
+[INFO] 19:53:36:736 [CPU]/(27685:27685): Conectado con exito a 127.0.0.1 puerto 4444
+[INFO] 19:53:36:736 [CPU]/(27685:27685): FD de conexion con el kernel 4
+[INFO] 19:53:36:736 [CPU]/(27685:27685): Enviando saludo a kernel...
+[INFO] 19:53:36:736 [CPU]/(27685:27685): Esperando respuesta del kernel...
+[INFO] 19:53:36:737 [CPU]/(27685:27685): Me llego esto HOLA CPU  COMO ANDAS SOY EL KERNEL TANTO TIEMPO
+[INFO] 21:38:47:541 [CPU]/(29299:29299): Conectado con exito a 127.0.0.1 puerto 4444
+[INFO] 21:38:47:541 [CPU]/(29299:29299): FD de conexion con el KERNEL 4
+[INFO] 21:38:47:541 [CPU]/(29299:29299): Enviando handhsake a KERNEL...
+[INFO] 21:38:47:541 [CPU]/(29299:29299): Handshake de CPU (ID 1) enviado!
+[INFO] 21:38:47:541 [CPU]/(29299:29299): Esperando respuesta del KERNEL...
+[INFO] 21:38:47:542 [CPU]/(29299:29299): Me llego esto:  Hola CPU strong handshake! ;)
+[INFO] 21:41:35:965 [CPU]/(29439:29439): Conectado con exito a 127.0.0.1 puerto 4444
+[INFO] 21:41:35:965 [CPU]/(29439:29439): FD de conexion con el KERNEL 4
+[INFO] 21:41:35:966 [CPU]/(29439:29439): Enviando handhsake a KERNEL...
+[INFO] 21:41:35:966 [CPU]/(29439:29439): Handshake de CPU (ID 1) enviado!
+[INFO] 21:41:35:966 [CPU]/(29439:29439): Handshake exitoso! Envio mensaje a KERNEL
+[INFO] 21:41:35:966 [CPU]/(29439:29439): Esperando respuesta del KERNEL...
+[INFO] 21:41:35:967 [CPU]/(29439:29439): Me llego esto:  Hola CPU strong handshake! ;)
+[INFO] 21:12:41:937 [CPU]/(11501:11501): Conectado con exito a 127.0.0.1 puerto 4444
+[INFO] 21:12:41:938 [CPU]/(11501:11501): FD de conexion con el KERNEL 4
+[INFO] 21:12:41:938 [CPU]/(11501:11501): Enviando handhsake a KERNEL...
+[INFO] 21:12:41:938 [CPU]/(11501:11501): Handshake de CPU (ID 1) enviado!
+[INFO] 21:12:41:938 [CPU]/(11501:11501): Handshake exitoso! Envio mensaje a KERNEL '
+[INFO] 21:12:41:938 [CPU]/(11501:11501): Esperando respuesta del KERNEL...
+[INFO] 21:12:41:939 [CPU]/(11501:11501): Me llego esto:  Hola CPU strong handshake! ;)

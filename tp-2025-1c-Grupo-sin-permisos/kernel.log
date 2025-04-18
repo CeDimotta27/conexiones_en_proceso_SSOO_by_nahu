@@ -1,0 +1,8 @@
+[INFO] 22:16:04:775 [KERNEL-C]/(3579:3579): Conectado con exito a 127.0.0.1 puerto 6666
+[INFO] 22:16:04:775 [KERNEL-C]/(3579:3579): FD de conexion con MEMORIA 4
+[INFO] 22:16:04:775 [KERNEL-C]/(3579:3579): Enviando handhsake a IO...
+[INFO] 22:16:04:775 [KERNEL-C]/(3579:3579): Handshake de KERNEL (ID 2) enviado!
+[INFO] 22:16:04:775 [KERNEL-C]/(3579:3579): Handshake exitoso! Envio mensaje kernel '
+[INFO] 22:16:04:775 [KERNEL-C]/(3579:3579): Esperando respuesta de la MEMORIA...
+[ERROR] 22:16:04:775 [KERNEL-C]/(3579:3579): Error al recibir tamanio del mensaje: Connection reset by peer
+[INFO] 22:16:04:775 [KERNEL-C]/(3579:3579): Me llego esto:  (null)
